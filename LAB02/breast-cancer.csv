@@ -1,4 +1,5 @@
-﻿no-recurrence-events,30-39,premeno,30-34,0-2,no,3,left,left_low,no
+﻿class,idade,menopause,tumor-size,inv-nodes,nodes-caps,deg-maling,breast,breast-quad,irradiat
+ no-recurrence-events,30-39,premeno,30-34,0-2,no,3,left,left_low,no
 no-recurrence-events,40-49,premeno,20-24,0-2,no,2,right,right_up,no
 no-recurrence-events,40-49,premeno,20-24,0-2,no,2,left,left_low,no
 no-recurrence-events,60-69,ge40,15-19,0-2,no,2,right,left_up,no
